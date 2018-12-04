@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 400 400.00001"
+   height="400"
+   width="400">
+  <defs
+     id="defs4">
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Send"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.3) rotate(180) translate(-2.3,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path5224" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern-2" />
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern-8" />
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Send-9"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.3) rotate(180) translate(-2.3,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path5224-8" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern-5" />
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern-2-7" />
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern-8-6" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-652.36216)"
+     id="layer1">
+    <g
+       transform="matrix(7.4614472,0,0,7.4614472,76.051359,675.12373)"
+       id="g6181">
+      <g
+         id="layer1-9"
+         transform="matrix(7.9693455,0,0,7.9693455,-622.41209,-627.83159)">
+        <path
+           style="opacity:1;fill:#4c4cbf;fill-opacity:1;fill-rule:evenodd;stroke:#4c4cb0;stroke-width:0.1511811;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0;paint-order:stroke fill markers"
+           d=""
+           id="path871"
+           transform="scale(0.26458333,0.26458333)" />
+        <path
+           style="opacity:1;fill:#4c4cbf;fill-opacity:1;fill-rule:evenodd;stroke:#4c4cb0;stroke-width:0.1511811;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0;paint-order:stroke fill markers"
+           d=""
+           id="path873"
+           transform="scale(0.26458333,0.26458333)" />
+        <path
+           style="opacity:1;fill:#4c4cbf;fill-opacity:1;fill-rule:evenodd;stroke:#4c4cbf;stroke-width:0.07559055;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+           d=""
+           id="path909"
+           transform="scale(0.26458333,0.26458333)" />
+        <path
+           style="opacity:1;fill:#4c4cbf;fill-opacity:1;fill-rule:evenodd;stroke:#4c4cbf;stroke-width:0.07559055;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+           d=""
+           id="path911"
+           transform="scale(0.26458333,0.26458333)" />
+        <path
+           style="opacity:1;fill:#4c4cbf;fill-opacity:1;fill-rule:evenodd;stroke:#4c4cbf;stroke-width:0.07559055;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+           d=""
+           id="path913"
+           transform="scale(0.26458333,0.26458333)" />
+      </g>
+      <path
+      fill="param(fill) #ffff"
+         stroke="param(outline) #000"
+         stroke-width="param(outline-width) 0"
+         id="path6600"
+         d="m 30.759938,0.30077743 a 1.0066591,1.0066591 0 0 0 -0.107554,0.00152 1.0066591,1.0066591 0 0 0 -0.531944,0.1930422 L 7.0784193,16.914827 C 7.0097802,16.781159 6.9306604,16.650793 6.8361647,16.526967 L 6.5868083,16.200495 C 5.7307531,15.078734 4.138687,14.864751 3.0169249,15.720807 l -6.009164,4.585827 c -1.1217625,0.856056 -1.3357434,2.448377 -0.4796887,3.570138 l 0.2491034,0.326726 c 0.8560558,1.121761 2.44837521,1.335489 3.57013665,0.479434 L 6.3564767,20.097105 C 6.582238,19.924818 6.7694864,19.7218 6.9203832,19.499713 l 8.0298908,-5.72125 0,32.52569 a 0.97418617,0.88029375 0 0 0 1.205181,0.878456 l 9.467942,0 a 0.97485053,0.97485053 0 0 0 0,-1.949701 l -8.725452,0 0,-32.770734 a 0.97418617,0.88029375 0 0 0 -0.0028,-0.06925 l 12.985061,-9.2518139 0,7.7429909 c -0.380273,1.008544 -0.187009,2.186618 0.599418,3.03236 1.10725,1.190761 2.957487,1.257928 4.148248,0.150678 l 1.653164,-1.537232 c 1.190781,-1.10725 1.258201,-2.9572326 0.150952,-4.147996 -1.10726,-1.1907623 -2.957499,-1.2581834 -4.148259,-0.1509341 l -0.455845,0.4238808 0,-7.3115007 a 0.97418617,0.97418617 0 0 0 -0.646346,-0.93020417 1.0066591,1.0066591 0 0 0 -0.4216,-0.1123754 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.01033378;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
+  </g>
+</svg>
