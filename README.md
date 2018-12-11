@@ -15,7 +15,7 @@ The resulted maps are undoubtedly one of the most impressive works ever made by 
 | Line| *1:25000* | qml | *river, contour line, road, railroad*
 | Polygon|*1:25000, 1:50000*| qml | *lake, vineyard, forest, pasture* 
 
-In this folder you will find a set of essential map symbols, polygon styles, and links to other useful map symbol resources.
+In *[this folder](https://github.com/Cezar92/ro-cartostyles/tree/master/symbols%20and%20styles)* you will find a set of essential map symbols, polygon styles, and links to other useful map symbol resources.
 
 ## Colours
 
