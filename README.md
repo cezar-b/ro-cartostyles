@@ -7,13 +7,13 @@
 
  |Symbol| Numerical scale|   |  Example  
 | ---- | --------- |--------|------|
-| Point| - | qml|  *[forester's house](https://imgur.com/F1zy7dj), church, fountain, bridge*
-| Line| *1:25000* | qml| *[road](https://imgur.com/AEi29pP), river, contour line, railroad*
-| Polygon|*1:25000, 1:50000*| qml| *[lake](https://imgur.com/UJaEHUR), [vine](https://imgur.com/lNEKM5N), [forest](https://imgur.com/aFm7k9s), pasture, garden* 
+| Point| - | svg |  *forester's house, church, fountain, bridge*
+| Line| *1:25000* | qml| *river, contour line, road, railroad*
+| Polygon|*1:25000, 1:50000*| qml| *lake, vineyard, forest, pasture* 
 
 ## 3. Map samples by scale:  
-- *[1:25000](https://imgur.com/LJI39GY)*
-- *[1:50000](https://imgur.com/qWMxAgN)*  
+- *![1:25000](https://github.com/Cezar92/ro-cartostyles/blob/master/samples/ro_cartostyle_25k.png)*
+- *![1:50000](https://github.com/Cezar92/ro-cartostyles/blob/master/samples/ro_cartostyle_50k.png)*  
 
 ## 4. How to use it?  
 You can use the .qml and the .svg files to symbolize your data in the first romanian topographic style. Follow the instructions in the .pdf to find out how to apply them to your QGIS projects!
@@ -39,5 +39,3 @@ Lorem ipsum
 ## Feedback
 
 If you have any feedback about the styles then please raise an issue on this repository.
-README.md
-Se afișează documentul README.md.
