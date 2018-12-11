@@ -3,6 +3,8 @@
 
 ## 1. Introduction about maps 
 
+In this repository we are sharing styles and symbols.
+
 ## 2. Symbol types
 
  |Symbol| Numerical scale|   |  Example  
@@ -12,17 +14,13 @@
 | Polygon|*1:25000, 1:50000*| qml| *lake, vineyard, forest, pasture* 
 
 ## 3. Map samples by scale:  
-- *![1:25000](https://github.com/Cezar92/ro-cartostyles/blob/master/samples/ro_cartostyle_25k.png)*
-- *![1:50000](https://github.com/Cezar92/ro-cartostyles/blob/master/samples/ro_cartostyle_50k.png)*  
+Sample of a 1:25000 scale map:
+![1:25000](https://github.com/Cezar92/ro-cartostyles/blob/master/samples/ro_cartostyle_25k.png)  
+Sample of a 1:50000 scale map:
+![1:50000](https://github.com/Cezar92/ro-cartostyles/blob/master/samples/ro_cartostyle_50k.png)
 
 ## 4. How to use it?  
-You can use the .qml and the .svg files to symbolize your data in the first romanian topographic style. Follow the instructions in the .pdf to find out how to apply them to your QGIS projects!
-
-## Intro
-
-Lorem ipsum
-
-In this repository we are sharing styles and symbols.
+You can use the .qml and the .svg files to symbolize your data in the first romanian topographic style. Follow the instructions in the .pdf file to find out how to apply them to your QGIS projects.
 
 ## Styles
 
