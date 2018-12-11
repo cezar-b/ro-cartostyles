@@ -7,9 +7,9 @@
 
  |Symbol| Numerical scale|   |  Example  
 | ---- | --------- |--------|------|
-| Punct| - | qml|  *[Forester's house](https://imgur.com/F1zy7dj), church, fountain, bridge*
-| Linie| *1:25000* | qml| *[road](https://imgur.com/AEi29pP), river, contour line, railroad*
-| Poligon|*1:25000, 1:50000*| qml| *[lake](https://imgur.com/UJaEHUR), [vine](https://imgur.com/lNEKM5N), [forest](https://imgur.com/aFm7k9s), pasture, garden* 
+| Point| - | qml|  *[Forester's house](https://imgur.com/F1zy7dj), church, fountain, bridge*
+| Line| *1:25000* | qml| *[road](https://imgur.com/AEi29pP), river, contour line, railroad*
+| Polygon|*1:25000, 1:50000*| qml| *[lake](https://imgur.com/UJaEHUR), [vine](https://imgur.com/lNEKM5N), [forest](https://imgur.com/aFm7k9s), pasture, garden* 
 
 ## 3. Map samples by scale:  
 - *[1:25000](https://imgur.com/LJI39GY)*
