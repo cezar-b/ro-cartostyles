@@ -1,38 +1,34 @@
 
 # Old Romanian cartographic styles for QGIS
 
-## 1. Introduction about maps 
+## Introduction about maps 
 
-In this repository we are sharing styles and symbols.
+In this repository we are sharing styles, symbols and colours that, when used together, can recreate the overall appearance of the first Romanian topographic maps made by the Military Geographical Institute.
+The map sheets initially suffered from a lack of artistic unity, but the Institute later established a general set of rules for standardizing its cartographic products.  
+The resulted maps are undoubtedly one of the most impressive works ever made by the Cartography School at the Geographical Institute.
 
-## 2. Symbol types
+## Symbols and styles
 
- |Symbol| Numerical scale|   |  Example  
+|Symbol| Numerical scale| File type |  Example  
 | ---- | --------- |--------|------|
 | Point| - | svg |  *forester's house, church, fountain, bridge*
-| Line| *1:25000* | qml| *river, contour line, road, railroad*
-| Polygon|*1:25000, 1:50000*| qml| *lake, vineyard, forest, pasture* 
+| Line| *1:25000* | qml | *river, contour line, road, railroad*
+| Polygon|*1:25000, 1:50000*| qml | *lake, vineyard, forest, pasture* 
 
-## 3. Map samples by scale:  
-Sample of a 1:25000 scale map:
-![1:25000](https://github.com/Cezar92/ro-cartostyles/blob/master/samples/ro_cartostyle_25k.png)  
-Sample of a 1:50000 scale map:
-![1:50000](https://github.com/Cezar92/ro-cartostyles/blob/master/samples/ro_cartostyle_50k.png)
-
-## 4. How to use it?  
-You can use the .qml and the .svg files to symbolize your data in the first romanian topographic style. Follow the instructions in the .pdf file to find out how to apply them to your QGIS projects.
-
-## Styles
-
-Lorem ipsum
-
-## Symbols
-
-Lorem ipsum
+In this folder you will find a set of essential map symbols, polygon styles, and links to other useful map symbol resources.
 
 ## Colours
 
-Lorem ipsum
+In *[this folder](https://github.com/Cezar92/ro-cartostyles/tree/master/colours)* you will find the colour information used to create the symbology, and links to other useful colour resources.
+
+## Map samples by scale:  
+Sample of a 1:25000 scale map:  
+![1:25000](https://github.com/Cezar92/ro-cartostyles/blob/master/samples/ro_cartostyle_25k.png)  
+Sample of a 1:50000 scale map:  
+![1:50000](https://github.com/Cezar92/ro-cartostyles/blob/master/samples/ro_cartostyle_50k.png)
+
+##  How to use it?  
+You can use the .qml and the .svg files to symbolize your data in the first romanian topographic style. Follow the instructions in the .pdf file to find out how to apply them to your QGIS projects.
 
 ## Feedback
 
