@@ -3,7 +3,7 @@
 Colour is an important part of map design. 
 To extend the use of the old cartographic styles without departing from the original map aestethics, you can find here all the colours used throughout the symbology.  
 
-[colour sample](https://github.com/Cezar92/ro-cartostyles/blob/master/samples/stiluri_IGA_culori.png)
+![colour sample](https://github.com/Cezar92/ro-cartostyles/blob/master/samples/stiluri_IGA_culori.png)
 
 ## Resources
 

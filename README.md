@@ -11,9 +11,9 @@ The resulted maps are undoubtedly one of the most impressive works ever made by 
 
 |Symbol| Numerical scale| File type |  Example  
 | ---- | --------- |--------|------|
-| Point| - | svg |  *forester's house, church, fountain, bridge*
-| Line| *1:25000* | qml | *river, contour line, road, railroad*
-| Polygon|*1:25000, 1:50000*| qml | *lake, vineyard, forest, pasture* 
+| Point| - | svg |  *forester's house, church, fountain, bridge* |
+| Line| *1:25000* | qml | *river, contour line, road, railroad* |
+| Polygon|*1:25000, 1:50000*| qml | *lake, vineyard, forest, pasture* |
 
 In *[this folder](https://github.com/Cezar92/ro-cartostyles/tree/master/symbols%20and%20styles)* you will find a set of essential map symbols, polygon styles, and links to other useful map symbol resources.
 
@@ -28,7 +28,7 @@ Sample of a 1:50000 scale map:
 ![1:50000](https://github.com/Cezar92/ro-cartostyles/blob/master/samples/ro_cartostyle_50k.png)
 
 ##  How to use it?  
-You can use the .qml and the .svg files to symbolize your data in the first romanian topographic style. Follow the instructions in the .pdf file to find out how to apply them to your QGIS projects.
+You can use the .qml and the .svg files to symbolize your data in the first Romanian topographic map style. Follow the instructions in the .pdf file to find out how to apply them to your data in QGIS.
 
 ## Feedback
 
