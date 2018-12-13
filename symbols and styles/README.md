@@ -2,7 +2,7 @@
 
 Symbols help to give more meaning to maps. 
 
-![lake](https://github.com/Cezar92/ro-cartostyles/blob/master/samples/lac.png)
+![forest](https://github.com/Cezar92/ro-cartostyles/blob/master/samples/sample_forest.png)
 
 ## Using the symbols
 
