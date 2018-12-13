@@ -28,7 +28,7 @@ Sample of a 1:50000 scale map:
 ![1:50000](https://github.com/Cezar92/ro-cartostyles/blob/master/samples/ro_cartostyle_50k.png)
 
 ##  How to use it?  
-You can use the .qml and the .svg files to symbolize your data in the first Romanian topographic map style. Follow the instructions in the .pdf file to find out how to apply them to your data in QGIS.
+You can use the .qml and the .svg files to symbolize your data in the first Romanian topographic map style. Follow the [instructions in the .pdf file](https://github.com/Cezar92/ro-cartostyles/blob/master/iga_instructions.pdf) to find out how to apply them to your data in QGIS.
 
 ## Feedback
 
